@@ -1,0 +1,11 @@
+gitkraken
+
+directx
+
+Como rodar o emulador no celular: 
+
+	-ativar configurações do celular 
+	-sobre o telefone
+	-informações do software
+	-versão do android (clicar várias vezes)
+	-ativar notificações do desenvolvedor
